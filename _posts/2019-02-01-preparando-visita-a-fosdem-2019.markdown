@@ -2,6 +2,7 @@
 layout: post
 title: "Preparando visita a FOSDEM 2019"
 date: "2019-02-01 21:28:18 +0100"
+author: Julio Molina Soler <julio@molinasoler.xyz>
 ---
 
 Me encuentro en casa preparándome para una visita a (https://fosdem.org/2019/)[FOSDEM 2019] ahora mismo es Viernes 1 de Febrero. Como no, por la falta de preparación que me caracteriza, estoy mirando a ver que puedo hacer antes de ir y que charlas me gustaría ver.
