@@ -1,3 +1,3 @@
-## En proceso de construccion
+## En proceso de construcción
 
-Muchas ideas y poca dedicacion.
+Muchas ideas y poca dedicación.
