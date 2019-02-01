@@ -3,9 +3,10 @@ layout: post
 title: "Preparando visita a FOSDEM 2019"
 date: "2019-02-01 21:28:18 +0100"
 author: Julio Molina Soler <julio@molinasoler.xyz>
+tag: FOSDEM
 ---
 
-Me encuentro en casa preparándome para una visita a (https://fosdem.org/2019/)[FOSDEM 2019] ahora mismo es Viernes 1 de Febrero. Como no, por la falta de preparación que me caracteriza, estoy mirando a ver que puedo hacer antes de ir y que charlas me gustaría ver.
+Me encuentro en casa preparándome para una visita a [FOSDEM 2019](https://fosdem.org/2019/) ahora mismo es Viernes 1 de Febrero. Como no, por la falta de preparación que me caracteriza, estoy mirando a ver que puedo hacer antes de ir y que charlas me gustaría ver.
 
 Preparando el portátil para llevarme, es un ASUS R202CA con Ubuntu 18.04 preparado para la acción. El problema va a ser la batería y las ganas de escribir. El otro ordenador que uso para el día a día es Microsoft Windows 10, por ahora no es buena idea presentarme a estos eventos con este SO. Quizá en el futuro, pero por ahora va a ser que no.
 
