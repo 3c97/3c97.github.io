@@ -36,6 +36,6 @@ Ya de vuelta a casa después de una jornada en [FOSDEM 2019](https://fosdem.org/
 - [Grafana Loki](https://grafana.com/loki): solución para mostrar logs en un servidor central, lo interesante es ver como indexan los logs y la facilidad/dificultad para buscar en ellos. Hasta ahora mi experiencia es en [ELK](https://www.elastic.co/elk-stack).
 - [Cryptpad](https://cryptpad.fr/): una herramienta de colaboración con encriptación.
 - [Dashboard Hub](https://dashboardhub.io/): aunque no pude hablar con los desarrolladores, si que me intereso que es lo hacen y vale la pena mencionarlo para hacer seguimiento.
-- [oVirt](https://www.ovirt.org/): para virtualizar servidores, una alternativa a vmware que vale la pena mirar.
+- [oVirt](https://www.ovirt.org/): para virtualizar servidores, una alternativa a [vmware](https://www.vmware.com/) que vale la pena mirar.
 
 Estas son las primeras impresiones que me he llevado de los diferentes proyectos que he visitado. Es muy normal que en posteriores entradas donde hable sobre los proyectos, los comentarios que aquí he dejado cambien radicalmente.
