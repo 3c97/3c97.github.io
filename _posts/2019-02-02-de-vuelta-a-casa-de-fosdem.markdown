@@ -31,7 +31,7 @@ Ya de vuelta a casa después de una jornada en [FOSDEM 2019](https://fosdem.org/
 ## Proyectos interesantes para hacer seguimiento
 - [Zuul](https://zuul-ci.org/docs/zuul/): proyecto parecido a [Jenkins](https://jenkins.io/) salido de [Openstack](https://www.openstack.org/). Lo interesante es que usa [Ansible](https://www.ansible.com/) para automatizar los pasos.
 - [PostGraphile](https://www.graphile.org/postgraphile/): Parece interesante, aunque no he tenido la oportunidad de hablar con los desarrolladores. A simple vista parece una UI para trabajar con [PostgreSQL](https://www.postgresql.org/)
-- [Plasma](https://www.kde.org/plasma-desktop): proyecto de [KDE](https://www.kde.org), interesante que la UI funciona en [Raspberry PI](https://www.raspberrypi.org/) y tiene una UI perfecta para manejar en pantallas digitales como los móviles. Me puede servir para finalizar un proyecto que tengo en el tintero.
+- [Plasma Mobile](https://www.plasma-mobile.org/): proyecto de [KDE](https://www.kde.org), interesante que la UI funciona en [Raspberry PI](https://www.raspberrypi.org/) y tiene una UI perfecta para manejar en pantallas digitales como los móviles. Me puede servir para finalizar un proyecto que tengo en el tintero.
 - [TOR](https://www.torproject.org/) y [OONI](https://ooni.torproject.org/): proyecto que está buscando desarrolladores, quien sabe :)
 - [Grafana Loki](https://grafana.com/loki): solución para mostrar logs en un servidor central, lo interesante es ver como indexan los logs y la facilidad/dificultad para buscar en ellos. Hasta ahora mi experiencia es en [ELK](https://www.elastic.co/elk-stack).
 - [Cryptpad](https://cryptpad.fr/): una herramienta de colaboración con encriptación.
