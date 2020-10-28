@@ -5,5 +5,5 @@ Traduciendo el mundo de Internet al idioma más positivo y no lo digo yo.
 
 ### Últimas entradas
 {% for post in site.posts limit:5 %}
-* [{{ page.date | date_to_xmlschema }} - {{ post.title }}]({{ post.url }})
+* [{{ post.date | date_to_xmlschema }} - {{ post.title }}]({{ post.url }})
 {% endfor %}
