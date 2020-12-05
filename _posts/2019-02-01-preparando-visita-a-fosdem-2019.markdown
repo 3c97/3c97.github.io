@@ -2,7 +2,7 @@
 layout: post
 title: "Preparando visita a FOSDEM 2019"
 date: "2019-02-01 21:28:18 +0100"
-author: Julio Molina Soler <julio@molinasoler.xyz>
+author: Julio Molina Soler <jmolinaso@outlook.com>
 tags: FOSDEM
 ---
 
