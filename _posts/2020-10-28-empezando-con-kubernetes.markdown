@@ -2,7 +2,7 @@
 layout: post
 title: "Empezando con kubernetes"
 date: "2020-10-28 22:18:25 +0100"
-author: Julio Molina Soler <jmolinaso@outlook.com>
+author: Julio Molina Soler <a3c97@outlook.com>
 tags: kubernetes
 ---
 

@@ -2,7 +2,7 @@
 layout: post
 title: "De vuelta a casa de FOSDEM"
 date: "2019-02-02 17:47:46 +0100"
-author: Julio Molina Soler <julio@molinasoler.xyz>
+author: Julio Molina Soler <a3c97@outlook.com>
 tags: FOSDEM
 ---
 

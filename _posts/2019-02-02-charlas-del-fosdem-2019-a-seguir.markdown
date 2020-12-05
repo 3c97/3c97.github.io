@@ -2,7 +2,7 @@
 layout: post
 title: "Charlas del FOSDEM 2019 a seguir"
 date: "2019-02-02 07:32:33 +0100"
-author: Julio Molina Soler <julio@molinasoler.xyz>
+author: Julio Molina Soler <a3c97@outlook.com>
 tags: FOSDEM
 ---
 
